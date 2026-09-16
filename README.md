@@ -2,20 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=90&duration=7500&pause=1000&color=6E4EF7&background=FFFFFF00&width=1100&height=200&lines=Hola+mundo!+Soy+Adonay+%F0%9F%AB%B0!;Bienvenido+a+mi+GitHub+)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBocWZrYXZtYWUzYjRqdGZiZzRvaHVtcGJ6YmlrN3JzemNteXNxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZucTJnanFsMzN5bWNiaGZyOTV5enhoYzMwaHpiazA2dTZuZzI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
 
 ### 👨‍💻 Languages and Tools
 
 <br/>
 
- [![HTML5](https://skillicons.dev/icons?i=html)](https://github.com/Adooo2) [![CSS3](https://skillicons.dev/icons?i=css)](https://github.com/Adooo2)  [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Adooo2) [![C#](https://skillicons.dev/icons?i=cs)](https://github.com/Adooo2) 
+ [![HTML5](https://skillicons.dev/icons?i=html)](https://github.com/Adooo2) [![CSS3](https://skillicons.dev/icons?i=css)](https://github.com/Adooo2)  [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Adooo2) [![C#](https://skillicons.dev/icons?i=cs)](https://github.com/Adooo2) [![C#](https://skillicons.dev/icons?i=cpp)](https://github.com/Adooo2)
  
  
- [![Bash](https://skillicons.dev/icons?i=bash)](https://github.com/Adooo2)  [![Git](https://skillicons.dev/icons?i=git)](https://github.com/Adooo2) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Adooo2)  [![Linux](https://skillicons.dev/icons?i=linux)](https://github.com/Adooo2) 
+ [![Bash](https://skillicons.dev/icons?i=bash)](https://github.com/Adooo2)  [![Git](https://skillicons.dev/icons?i=git)](https://github.com/Adooo2) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Adooo2)  [![Linux](https://skillicons.dev/icons?i=linux)](https://github.com/Adooo2) [![C#](https://skillicons.dev/icons?i=arch)](https://github.com/Adooo2)
 
  
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://github.com/Adooo2) [![Vim](https://skillicons.dev/icons?i=vim)](https://github.com/Adooo2)  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://github.com/Adooo2)  [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://github.com/Adooo2) 
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://github.com/Adooo2) [![Vim](https://skillicons.dev/icons?i=vim)](https://github.com/Adooo2)  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://github.com/Adooo2)  [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://github.com/Adooo2) [![C#](https://skillicons.dev/icons?i=mysql)](https://github.com/Adooo2)
 
 <br/>
 <br/>
