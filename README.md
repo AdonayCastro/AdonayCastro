@@ -1,4 +1,4 @@
-## Estudiante de Ingeniería en Sistemas y Computación 
+## Estudiante de Ingeniería en ciencias de la computación
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&size=90&duration=7500&pause=1000&color=6E4EF7&background=FFFFFF00&width=1100&height=200&lines=Hola+mundo!+Soy+Adonay+%F0%9F%AB%B0!;Bienvenido+a+mi+GitHub+)](https://git.io/typing-svg)
 
